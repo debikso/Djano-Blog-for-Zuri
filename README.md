@@ -22,5 +22,6 @@ To install the dependencies:
 This indicates that this terminal session operates in a virtual environment set up by pipenv.
 
 Heroku Link: https://git.heroku.com/debisblog82.git
+Still having serious bottlenecks and errors with my heroku deployment.
 
 
