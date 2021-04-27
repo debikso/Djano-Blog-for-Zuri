@@ -20,6 +20,6 @@ To install the dependencies:
 (env)$ pip install -r requirements.txt
 Note the (env) in front of the prompt. This indicates that this terminal session operates in a virtual environment set up by pipenv.
 
-Once pip has finished downloading the dependencies:
+
 
 
