@@ -1,5 +1,6 @@
 # Djano-Blog-for-Zuri
-
+ This is an attempt at creating a blog, Debi's Blog. There will be improvements in the coming days/ weeks. 
+ 
 Features Include:
 
 -A register page, a user can perform CRUD operations.
@@ -14,11 +15,11 @@ Features Include:
 
 To activate a virtual enviroment:
 
-$ pipenv shell
+ pipenv shell
 To install the dependencies:
 
-(env)$ pip install -r requirements.txt
-Note the (env) in front of the prompt. This indicates that this terminal session operates in a virtual environment set up by pipenv.
+ pip install -r requirements.txt
+This indicates that this terminal session operates in a virtual environment set up by pipenv.
 
 Heroku Link: https://git.heroku.com/debisblog82.git
 
